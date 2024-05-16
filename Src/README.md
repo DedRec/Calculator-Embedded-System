@@ -3,11 +3,12 @@ _This is an Embedded C project designed for Tiva C Cortex M4 board (EK-TM4C123GX
 
 Contributor ID | Contributor Name 
 ------------- | -------------
+19P3954 | Seifeldin Sameh Mostafa
 19P7095  | Ziad Ashraf Ahmed Ahmed
 19P9597  | Yassin Khaled Mostafa Attia Mahgub
-19P9610 | Gannah Allah Mohamed
-19P3954 | Seifeldin Sameh Mostafa
 19P1120  | Yara Mostafa Ibrahim
+19P9610 | Gannah Allah Mohamed
+
 
 
  
