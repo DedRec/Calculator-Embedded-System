@@ -1,4 +1,4 @@
-# Calculator-Embedded-System
+# Calculator-Timer-Stopwatch Embedded Project using LCD-display
 
 ## Overview
 This project involves developing embedded systems software for a microcontroller platform, specifically the TM4C123GH6PM microcontroller. The software includes tasks for controlling GPIO pins, interfacing with peripherals like LCD displays and keypads, implementing timers, and more.
